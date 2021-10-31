@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Contribute
 
-To provide better improvements
+Please fork this repo and issue pull request.
 
 ### Copyright
 
