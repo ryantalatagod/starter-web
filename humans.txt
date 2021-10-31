@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Talatagod    ryantalatagod@git.training    @ryan
 
 # THANKS
 
