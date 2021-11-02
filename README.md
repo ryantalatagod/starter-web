@@ -12,4 +12,4 @@ Please fork this repo and issue pull request.
 
 ### Copyright
 
-2021 Git.Training
+2021 Git.Training. All rights reserved.
